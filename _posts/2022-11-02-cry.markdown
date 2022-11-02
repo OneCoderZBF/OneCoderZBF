@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "cry"
+title:  "李传良是个二傻子"
 date:   2022-11-02 15:03:49 +0800
 categories: jekyll update
 ---
