@@ -33,9 +33,7 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     disqus: vno-jekyll
-    # duoshuo:
-#time
-timezone: Asia/Shanghai
+    # duoshuo: 
     
 # Social
 social:
