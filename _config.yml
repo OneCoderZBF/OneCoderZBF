@@ -34,14 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#新增
-date: 2017-08-07 13:26:51 UTC+8
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-  
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
